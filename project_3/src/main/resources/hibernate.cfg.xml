@@ -33,7 +33,7 @@
 		<property name="hibernate.c3p0.max_statements">50</property> 
 		<property name="hibernate.c3p0.idle_test_period">3000</property> -->
 
-		<!-- <mapping resource="in/co/rays/project_3/hbm/UserDTO.hbm.xml" />
+		 <mapping resource="in/co/rays/project_3/hbm/UserDTO.hbm.xml" />
 		<mapping
 			resource="in/co/rays/project_3/hbm/StudentDTO.hbm.xml" />
 		<mapping
@@ -49,7 +49,7 @@
 		<mapping
 			resource="in/co/rays/project_3/hbm/SubjectDTO.hbm.xml" />
 		<mapping
-			resource="in/co/rays/project_3/hbm/EmployeeDTO.hbm.xml" /> -->	
+			resource="in/co/rays/project_3/hbm/EmployeeDTO.hbm.xml" /> 
 			
 		<!-- <mapping resource="in/co/rays/project_3/hbm/BankDTO.hbm.xml" /> -->
 		
